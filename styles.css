@@ -1,5 +1,15 @@
 h1 {
-    color: aqua;
+    color: brown;
+    font-weight: bold;
+    font-stretch: extra-expanded;
+    font-size: xx-large;
+}
+p {
+    color: deeppink;
+    font-weight: bolder;
+    font-size: large;
+    font-style: italic;
+    font-stretch: extra-expanded;
 }
 li {
     list-style: none;
@@ -12,5 +22,14 @@ li {
 }
 
 h2 {
-    color: aquamarine;
+    color: black;
+    font-size: large;
+    font-stretch: 100%;
+    
+}
+
+img {
+    opacity: 75;
+    
+    
 }
